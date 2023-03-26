@@ -58,7 +58,7 @@
 // }
 // alert(user.age);
 
-let yourName = prompt('Как тебя зовут?');
-alert(`Привет, ${yourName}!`)
+// let yourName = prompt('Как тебя зовут?');
+// alert(`Привет, ${yourName}!`)
 
 
