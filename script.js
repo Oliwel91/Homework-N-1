@@ -28,8 +28,8 @@
 // num -= 3;
 // num *= 7;
 // num /= 3;
-// num += 1;
-// num -=1;
+// num = ++ nam;
+// num = -- nam;
 // alert(num);
 
 // let age = prompt('Сколько вам лет?');
